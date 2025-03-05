@@ -1,5 +1,5 @@
 import axios from 'axios';  
-// connection with backend code
+// connection with backend
 const API_URL = "http://localhost:5000";
 
 
