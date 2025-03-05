@@ -1,6 +1,7 @@
 import axios from 'axios';  
-
+// connection with backend code
 const API_URL = "http://localhost:5000";
+
 
 class ProductService {
     saveProduct(product) {
